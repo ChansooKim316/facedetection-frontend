@@ -5,3 +5,9 @@
 
 ![](./usage.png)
 
+### Technologies
+
+  - JavaScript, HTML, CSS
+  - Node.js
+  - React.js
+  - Face recognition API (clarifai.com)
