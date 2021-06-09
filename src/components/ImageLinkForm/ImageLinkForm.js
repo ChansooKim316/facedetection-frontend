@@ -11,7 +11,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
 			<div className='center'>   {/* f4 = size of 4 , pa2 = padding of 2 , w-70 = width of 70% */}
 				<div className='form center pa4 br3 shadow-5'>										{/* ㄴ> 70% of total width of the page */}
 					<input className='f4 pa2 w-70' type='tex' onChange={onInputChange}
-								 placeholder="Paste image URL here" 
+								 placeholder="Paste image URL here." 
 								 id="imageInput" />    {/*******  8.24 midified : added id="imageInput"  ******/}
 					<button 
 						id="detectBtn"  	/***** 8.24 midified : added id="detectBtn" *****/
